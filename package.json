@@ -1,0 +1,10 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index;js"
+  }
+}
